@@ -1,0 +1,4 @@
+FROM wordpress:latest
+
+ENV WORDPRESS_DB_USER wordpress
+ENV WORDPRESS_DB_PASSWORD wordpress
